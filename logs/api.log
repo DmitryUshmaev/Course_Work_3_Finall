@@ -1,0 +1,31 @@
+python2022-06-13 21:48:07,754 [DEBUG] ��������� ��� �����
+python2022-06-13 21:49:34,038 [DEBUG] Запрошены все посты
+python2022-06-13 21:53:40,143 [DEBUG] Обращение к посту 2
+python2022-06-13 21:53:43,841 [DEBUG] Обращение к несуществующему посту 700
+python2022-06-14 11:22:42,587 [DEBUG] Запрошены все посты
+python2022-06-14 11:22:42,591 [DEBUG] Обращение к посту 1
+python2022-06-14 11:22:42,595 [DEBUG] Обращение к посту 1
+python2022-06-14 11:22:58,870 [DEBUG] Запрошены все посты
+python2022-06-14 11:22:58,874 [DEBUG] Обращение к посту 1
+python2022-06-14 11:22:58,877 [DEBUG] Обращение к несуществующему посту 99
+python2022-06-14 11:22:58,878 [ERROR] Ошибка 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+python2022-06-14 12:10:54,885 [DEBUG] Запрошены все посты
+python2022-06-14 12:10:54,889 [DEBUG] Обращение к посту 1
+python2022-06-14 12:10:54,893 [DEBUG] Обращение к несуществующему посту 99
+python2022-06-14 12:10:54,893 [ERROR] Ошибка 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+python2022-06-14 12:10:54,897 [DEBUG] Обращение к посту 1
+python2022-06-14 12:11:47,140 [DEBUG] Запрошены все посты
+python2022-06-14 12:11:47,144 [DEBUG] Обращение к посту 1
+python2022-06-14 12:11:47,148 [DEBUG] Обращение к несуществующему посту 99
+python2022-06-14 12:11:47,148 [ERROR] Ошибка 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+python2022-06-14 12:11:47,152 [DEBUG] Обращение к посту 1
+python2022-06-14 12:12:03,618 [DEBUG] Запрошены все посты
+python2022-06-14 12:12:03,622 [DEBUG] Обращение к посту 1
+python2022-06-14 12:12:03,626 [DEBUG] Обращение к несуществующему посту 99
+python2022-06-14 12:12:03,626 [ERROR] Ошибка 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+python2022-06-14 12:12:03,629 [DEBUG] Обращение к посту 2
+python2022-06-14 12:13:14,662 [DEBUG] Запрошены все посты
+python2022-06-14 12:13:14,666 [DEBUG] Обращение к посту 1
+python2022-06-14 12:13:14,670 [DEBUG] Обращение к несуществующему посту 99
+python2022-06-14 12:13:14,670 [ERROR] Ошибка 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+python2022-06-14 12:13:14,674 [DEBUG] Обращение к посту 1
